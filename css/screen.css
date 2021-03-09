@@ -384,6 +384,14 @@ form h1, form p {
     padding-bottom: 0.5em;
 }
 
+form h1 {
+    font-size: 150%;
+}
+
+form p {
+    font-size: 130%;
+}
+
 form ol li {
     padding-top: .5em;
 }
