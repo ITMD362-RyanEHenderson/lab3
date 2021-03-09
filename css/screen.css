@@ -379,7 +379,8 @@ form ol {
     background-color: #5f5f5f;
 }
 
-form h1, form p {
+form h1,
+form p {
     text-align: center;
     padding-bottom: 0.5em;
 }
